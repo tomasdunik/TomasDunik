@@ -2,7 +2,9 @@
 
 ### PROFILE UNDER RECONSTRUCTION
 
-![](https://komarev.com/ghpvc/?username=TomasDunik&color=007fff&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=tomasdunik&color=007fff&style=for-the-badge)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdunik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdunik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
