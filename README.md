@@ -4,9 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=tomasdunik&color=007fff&style=for-the-badge)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdunik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdunik&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomasdunik&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
