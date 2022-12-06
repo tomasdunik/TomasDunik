@@ -2,7 +2,7 @@
 
 ### PROFILE UNDER RECONSTRUCTION
 
-![](https://komarev.com/ghpvc/?username=TomasDunik&color=007fff)
+![](https://komarev.com/ghpvc/?username=TomasDunik&color=007fff&for-the-badge)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
