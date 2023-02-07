@@ -6,7 +6,7 @@ Volám sa Tomáš a som junior webový kódovač. Momentálne sa vzdelávam v HT
 </h4>
 <br/>
 
-- 📫 Kontaktvať ma môžeš na **tomasdunik@gmail.com** alebo na [**LinkedIn**](https://www.linkedin.com/in/tom%C3%A1%C5%A1-dun%C3%ADk-31101325a/).
+- 📫 Kontaktvať ma môžeš na **tomdunik@gmail.com** alebo na [**LinkedIn**](https://www.linkedin.com/in/tom%C3%A1%C5%A1-dun%C3%ADk-31101325a/).
 - **👀 Zaujímam sa o tvorbu webových stránok.**
 - 🌱 Momentálne sa učím HTML, CSS, SASS a JavaScript.
 - **💞️ Hľadám si prácu ako webový kódovač.**
