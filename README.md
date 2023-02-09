@@ -1,14 +1,14 @@
 <h3 align="center">Ahoj 👋</h1>
 <h4 align="center">
 
-Volám sa Tomáš a som junior webový kódovač. Momentálne sa vzdelávam v HTML, CSS, Sass a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil zaujal, neváhaj ma kontaktovať!
+Volám sa Tomáš a som junior webový kódovač. Momentálne sa vzdelávam v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil zaujal, neváhaj ma kontaktovať!
 
 </h4>
 <br/>
 
 - 📫 Kontaktvať ma môžeš na **tomdunik@gmail.com** alebo na [**LinkedIn**](https://www.linkedin.com/in/tom%C3%A1%C5%A1-dun%C3%ADk-31101325a/).
 - **👀 Zaujímam sa o tvorbu webových stránok.**
-- 🌱 Momentálne sa učím HTML, CSS, Sass a JavaScript.
+- 🌱 Momentálne sa učím HTML, CSS, SCSS a JavaScript.
 - **💞️ Hľadám si prácu ako webový kódovač.**
 - 🥅 Ciele 2023: Naučiť sa React a nájsť si prácu v IT.
 
