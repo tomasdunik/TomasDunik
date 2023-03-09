@@ -1,7 +1,7 @@
 <h3 align="center">Ahoj 👋</h1>
 <h4 align="center">
 
-Volám sa Tomáš a som junior webový kódovač. Momentálne sa vzdelávam v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil zaujal, neváhaj ma kontaktovať!
+Volám sa Tomáš a som junior kodér webových stránok. Momentálne sa vzdelávam v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil zaujal, neváhaj ma kontaktovať!
 
 </h4>
 <br/>
