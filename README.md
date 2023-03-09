@@ -30,7 +30,7 @@ Volám sa Tomáš a som junior kodér webových stránok. Momentálne sa vzdelá
 <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
 
-- 👨‍💻 **Kodér webových stránok - samouk**\
+- 👨‍💻 **Junior kodér webových stránok - samouk**\
   📆 10/2022 - súčasnosť\
   📍 **Freelancer** - Bratislava, Slovensko
 
