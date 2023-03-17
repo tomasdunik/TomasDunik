@@ -1,7 +1,7 @@
 <h3 align="center">Ahoj 👋</h1>
 <h4 align="center">
 
-Volám sa Tomáš a som junior kodér webových stránok. Momentálne sa vzdelávam v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil zaujal, neváhaj ma kontaktovať!
+Volám sa Tomáš a som junior kódovač webových stránok. Momentálne sa vzdelávam v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil zaujal, neváhaj ma kontaktovať!
 
 </h4>
 <br/>
@@ -9,7 +9,7 @@ Volám sa Tomáš a som junior kodér webových stránok. Momentálne sa vzdelá
 - 📫 Kontaktvať ma môžeš na **tomdunik@gmail.com** alebo na [**LinkedIn**](https://www.linkedin.com/in/tom%C3%A1%C5%A1-dun%C3%ADk-31101325a/).
 - **👀 Zaujímam sa o tvorbu webových stránok.**
 - 🌱 Momentálne sa učím HTML, CSS, SCSS a JavaScript.
-- **💞️ Hľadám si prácu ako webový kódovač.**
+- **💞️ Hľadám si prácu v oblasti vytvárania webových stránok.**
 - 🥅 Ciele 2023: Naučiť sa React a nájsť si prácu v IT.
 
 <br/>
@@ -30,7 +30,7 @@ Volám sa Tomáš a som junior kodér webových stránok. Momentálne sa vzdelá
 <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
 
-- 👨‍💻 **Junior kodér webových stránok - samouk**\
+- 👨‍💻 **Junior kódovač webových stránok - samouk**\
   📆 10/2022 - súčasnosť\
   📍 **Freelancer** - Bratislava, Slovensko
 
