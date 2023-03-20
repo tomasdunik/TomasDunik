@@ -1,40 +1,16 @@
 <h3 align="center">Ahoj 👋</h1>
 <h4 align="center">
 
-Volám sa Tomáš a som junior kódovač webových stránok. Momentálne sa vzdelávam v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil zaujal, neváhaj ma kontaktovať!
+Volám sa Tomáš a som začiatočník kodér webových stránok. Vzdelávam sa v HTML, CSS, SCSS a JavaScripte. Pracujem hlavne na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io/home). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil niečím zaujal, neváhaj ma kontaktovať!
 
 </h4>
 <br/>
 
-- 📫 Kontaktvať ma môžeš na **tomasdunik@gmail.com** alebo na [**LinkedIn**](https://www.linkedin.com/in/tom%C3%A1%C5%A1-dun%C3%ADk-31101325a/).
+- 📫 Kontaktvať ma môžeš na **tomasdunik@gmail.com** alebo na [**LinkedIn**](https://www.linkedin.com/in/tomasdunik/).
 - **👀 Zaujímam sa o tvorbu webových stránok.**
 - 🌱 Momentálne sa učím HTML, CSS, SCSS a JavaScript.
 - **💞️ Hľadám si prácu v oblasti vytvárania webových stránok.**
-- 🥅 Ciele 2023: Naučiť sa React a nájsť si prácu v IT.
-
-<br/>
-
-<details>
-  <summary><b>📃 Vzdelanie & skúsenosti</b></summary>
-
-## Vzdelanie
-
-- 📖 **Mechanik počítačových sietí**\
-   📆 2007 - 2011\
-   📍 **Stredná odborná škola strojnícka**, Považská Bystrica, Slovensko
-
-## Skúsenosti
-
-<img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-<img align="right" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-
-- 👨‍💻 **Junior kódovač webových stránok - samouk**\
-  📆 10/2022 - súčasnosť\
-  📍 **Freelancer** - Bratislava, Slovensko
-
-</details>
+- 🥅 Cieľ 2023: Zlepšiť sa v JavaScripte a naučiť sa React. 
 
 <br/>
 
