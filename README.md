@@ -10,7 +10,7 @@ Volám sa Tomáš a som začiatočník kodér webových stránok. Vzdelávam sa 
 - **👀 Zaujímam sa o tvorbu webových stránok.**
 - 🌱 Momentálne sa učím HTML, CSS, SCSS a JavaScript.
 - **💞️ Hľadám si prácu v oblasti vytvárania webových stránok.**
-- 🥅 Cieľ 2023: Zlepšiť sa v JavaScripte a naučiť sa React. 
+- 🥅 Cieľ 2023: Nájsť si prácu v IT. 
 
 <br/>
 
