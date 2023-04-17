@@ -1,7 +1,7 @@
 <h3 align="center">Ahoj 👋</h1>
 <h4 align="center">
 
-Volám sa Tomáš a som začiatočník kodér webových stránok. Vzdelávam sa v HTML, CSS, SCSS a JavaScripte. Pracujem hlavne na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io). Tieto projekty sa nachádzajú na mojom GitHub profile. Ak ťa môj profil niečím zaujal, neváhaj ma kontaktovať.
+Volám sa Tomáš a som Entry-level Frontend Developer. Vzdelávam sa hlavne v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io). Tieto projekty sa nachádzajú na mojom GitHub profile.
 
 </h4>
 <br/>
@@ -10,7 +10,7 @@ Volám sa Tomáš a som začiatočník kodér webových stránok. Vzdelávam sa 
 - **👀 Zaujímam sa o tvorbu webových stránok.**
 - 🌱 Momentálne sa učím HTML, CSS, SCSS a JavaScript.
 - **💞️ Hľadám si prácu v oblasti vytvárania webových stránok.**
-- 🥅 Cieľ 2023: Nájsť si prácu v IT. 
+- 🥅 Cieľ 2023: Zlepšiť sa v JavaScripte a naučiť sa aspoň základy PHP. 
 
 <br/>
 
@@ -27,9 +27,9 @@ Volám sa Tomáš a som začiatočník kodér webových stránok. Vzdelávam sa 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdunik&layout=compact)](https://github.com/tomasdunik/github-readme-stats)
+
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=tomasdunik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdunik&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tomasdunik&label=Profile%20views&color=0e75b6&style=flat" alt="tomasdunik" />
