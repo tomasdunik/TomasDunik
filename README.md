@@ -28,7 +28,7 @@ Volám sa Tomáš a som začiatočník kodér webových stránok. Vzdelávam sa 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdunik&layout=compact)](https://github.com/tomasdunik/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tomasdunik&label=Profile%20views&color=0e75b6&style=flat" alt="tomasdunik" />
