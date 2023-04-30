@@ -1,19 +1,3 @@
-<h3 align="center">Ahoj 👋</h1>
-<h4 align="center">
-
-Volám sa Tomáš a som Entry-level Frontend Developer. Vzdelávam sa hlavne v HTML, CSS, SCSS a JavaScripte. Pracujem na projektoch zo stránky [Frontend Mentor](https://www.frontendmentor.io). Tieto projekty sa nachádzajú na mojom GitHub profile.
-
-</h4>
-<br/>
-
-- 📫 Kontaktvať ma môžeš na **tomasdunik@gmail.com** alebo na [**LinkedIn**](https://www.linkedin.com/in/tomasdunik/).
-- **👀 Zaujímam sa o tvorbu webových stránok.**
-- 🌱 Momentálne sa učím HTML, CSS, SCSS a JavaScript.
-- **💞️ Hľadám si prácu v oblasti vytvárania webových stránok.**
-- 🥅 Cieľ 2023: Zlepšiť sa v JavaScripte a naučiť sa aspoň základy PHP. 
-
-<br/>
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
